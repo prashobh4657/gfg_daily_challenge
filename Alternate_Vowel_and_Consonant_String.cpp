@@ -5,9 +5,9 @@
     ==> Space complexity : O(v+c) = O(n) where v=vowel.size() and c=consonant.size();
     ==> Time complexity : O(nlogn) (Sorting of both vowel,consonant strings);
     */
-// Submission 2 :
-   //this implementation using frequency array for both vowel and consonant later will implement;
+// Submission 2 : 2022-12-04 12:38:34	Correct	cpp	1023 / 1023
    /*
-    Space complexity : O(2*26);
-    
+    ==> See the way in which vowel and consonant string constructed (using frequency array). (The constructed strings are already sorted);
+    ==> Space complexity : O(2*26);
+    ==> Time complexity : O(n);
    */
