@@ -1,4 +1,3 @@
-
 // Question Link : https://practice.geeksforgeeks.org/problems/alternate-vowel-and-consonant-string2939/1
 // Submission 1 : 2022-12-04 11:54:34	Time Limit Exceeded	cpp	1016 / 1023
     /*
