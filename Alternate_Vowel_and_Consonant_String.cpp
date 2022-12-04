@@ -8,6 +8,7 @@
 // Submission 2 : 2022-12-04 12:38:34	Correct	cpp	1023 / 1023
    /*
     ==> See the way in which vowel and consonant string constructed (using frequency array). (The constructed strings are already sorted);
+        After construction of vowel and consonant string rest of the code is same in both submissions.
     ==> Space complexity : O(2*26);
     ==> Time complexity : O(n);
    */
